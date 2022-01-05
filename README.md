@@ -1,4 +1,7 @@
-### Hi there 👋
+My Chief interest is Python. Python and JS... JS and Python... 
+My TWO main interests are JS, Python, and research... 
+My THREE main interests are JS, Python, research, and an almost fanatical devotion to security.. 
+My FOUR.. no.. AMONGST my interests are such elements as JS, Python, security res- I'll come in again.
 
 <!--
 **ctrl-escp/ctrl-escp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
